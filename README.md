@@ -25,7 +25,7 @@ A TecHer nasce como uma plataforma inovadora, fornecendo um conjunto completo de
 Através de nossa plataforma, que funciona com planos de assinatura e contratação dos variados serviços, mulheres na área tech podem facilmente acessar esses recursos de forma integrada, sentindo-se seguras e acolhidas para desenvolver todas as áreas de sua vida. A TecHer promove a construção de um futuro onde as mulheres tenham as ferramentas e o apoio necessário para alcançar seus objetivos, sem ter que sacrificar sua profissão, vida pessoal e bem-estar. Não somos apenas uma plataforma de serviços, somos uma comunidade que acredita no potencial de cada mulher.
 
 ## Descrição Técnica
-Ao utilizarmos das linguagens HTML, TypeScript e SCSS desenvolvemos o nosso MVP de front-end, criando as abas de página inicial, sobre, serviços, FAC e cadastro de serviços oferecidos em nosso plano de assinatura básico gratuito.
+Ao utilizarmos das linguagens HTML, TypeScript e SCSS desenvolvemos o nosso MVP de front-end, criando as abas de página inicial, sobre, serviços, FAC e cadastro de mulheres e cadastros de serviços oferecidos em nosso plano de assinatura básico gratuito.
 
 Neste repositório, há também o Deck do projeto, onde apresentamos mais detalhes de sua elaboração seguindo o CANVA e análises de projeções financeiras.
 
