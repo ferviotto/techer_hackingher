@@ -27,7 +27,7 @@ Através de nossa plataforma, que funciona com planos de assinatura e contrataç
 ## Descrição Técnica
 Ao utilizarmos das linguagens HTML, TypeScript e SCSS desenvolvemos o nosso MVP de front-end, criando as abas de página inicial, sobre, serviços, FAC e cadastro de serviços oferecidos em nosso plano de assinatura básico gratuito.
 
-Há também o Deck do projeto, onde apresentamos mais detalhes de sua elaboração seguindo o CANVA e análises de projeções financeiras.
+Neste repositório, há também o Deck do projeto, onde apresentamos mais detalhes de sua elaboração seguindo o CANVA e análises de projeções financeiras.
 
 ##
 
