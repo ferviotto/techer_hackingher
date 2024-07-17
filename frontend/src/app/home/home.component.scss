@@ -1,0 +1,42 @@
+#banner img{
+    width: 100%;
+    height: auto;
+}
+
+#motivoProjeto{
+    padding: 5%;
+}
+
+h1{
+    font-weight: 600;
+    font-size:xx-large;
+    color: #1B065E;
+}
+p{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+#dados{
+    padding: 5%;
+}
+    #flexRow{
+        display: flex;
+        flex-direction: row;
+    }
+        .separaTexto{
+            width:100%;
+            margin: 5% 2%;
+        }
+        .icone{
+            width: 25%;
+            height: auto;
+        }
+            .icone img{
+                color: #1B065E;
+            }
+
+.justificadoCentralizado{
+    vertical-align: middle;
+    text-align: center;
+}
