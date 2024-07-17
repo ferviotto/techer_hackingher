@@ -12,7 +12,7 @@
 
 Segundo o IBGE e o Ibre-FGV, 48% dos lares brasileiros são chefiados por mulheres, das quais 15% são mães solo. Alarmantemente, 72,4% dessas mães não contam com uma rede de apoio próxima. A jornada de trabalho dupla é uma realidade social em muitos lares brasileiros, e isso se reflete de forma intensa em nichos específicos, como o setor de tecnologia.
 
-Segundo a ONU Mulheres, apenas 20% dos profissionais nessas áreas são mulheres, sendo a jornada dupla um forte impasse para aumentarmos a participação feminina no setor.
+Conforme pesquisas da ONU Mulheres, apenas 20% dos profissionais nessas áreas são mulheres, sendo a jornada dupla um forte impasse para aumentarmos a participação feminina no setor.
 Tendo em mente esses dados, como podemos resolver esse desafio? A TecHer é a solução!
 
 A TecHer nasce como uma plataforma inovadora, fornecendo um conjunto completo de serviços e recursos para apoiar mulheres em suas jornadas profissionais e pessoais. Oferecidos exclusivamente por mulheres, nossos serviços têm o intuito de minimizar os efeitos da jornada dupla na vida daquelas que querem ingressar na carreira tech ou que já estão na área. Os principais incluem:
