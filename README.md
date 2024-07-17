@@ -1,5 +1,13 @@
 # TechHer: uma rede de apoio para mulheres em carreira tech
 
+> #### Equipe:
+
+- Clarisse Ribeiro
+- Fernanda Viotto
+- Juliana Rodrigues
+- Marcela Policiano
+- Roberta de Siqueira
+
 ## Descrição do Projeto
 
 Segundo o IBGE e o Ibre-FGV, 48% dos lares brasileiros são chefiados por mulheres, das quais 15% são mães solo. Alarmantemente, 72,4% dessas mães não contam com uma rede de apoio próxima. A jornada de trabalho dupla é uma realidade social em muitos lares brasileiros, e isso se reflete de forma intensa em nichos específicos, como o setor de tecnologia.
@@ -18,14 +26,6 @@ Através de nossa plataforma, que funciona com planos de assinatura e contrataç
 
 ## Descrição Técnica
 Ao utilizarmos das linguagens HTML, TypeScript e SCSS desenvolvemos o nosso MVP de front-end, criando as abas de página inicial, sobre, serviços, FAC e cadastro de serviços oferecidos em nosso plano de assinatura básico gratuito.
-
-> #### Nossa Equipe:
-
-- Clarisse Ribeiro
-- Fernanda Viotto
-- Juliana Rodrigues
-- Marcela Policiano
-- Roberta de Siqueira
 
 ##
 
